@@ -102,7 +102,7 @@ function updateTime() {
 			let todoValue = li[i].textContent.toUpperCase();
 			if (todoValue.indexOf(searchTodoValueLower) > -1 || searchTodoValueLower == '  ') {
 				searchTodo.style.color = 'green';
-				li[i].style.display = '';
+				li[i].style.display = 'inline-block';
 				iconsCheck[i].style.display = 'inline-block';
 				iconsTrash[i].style.display = 'inline-block';
 			}
