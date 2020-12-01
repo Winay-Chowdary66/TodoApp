@@ -4,7 +4,7 @@ A Todo App that stores the list of todo's where list can search and delete.
 
 Check out here..
 
-# https://winay-chowdary66.github.io/Todo-App/
+# https://winay-chowdary66.github.io/TodoApp/
 
 
 
